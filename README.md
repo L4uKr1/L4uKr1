@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on creating proyects
 - 📫 How to reach me via discord
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I learned python because i lose a game with a friend 
+- ⚡ Fun fact: I learned python by pretending to be a bot in a discord server 
 
